@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo cp hello ~betty
+sudo chown betty: ~betty/hello
